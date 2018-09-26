@@ -1,5 +1,7 @@
 # Stack on a budget (Free Tier Driven Development FTDD)
 
+[![CircleCI](https://circleci.com/gh/255kb/stack-on-a-budget/tree/master.svg?style=shield&circle-token=398473fa26ade43588ec31aaefa8e02191fbceca)](https://circleci.com/gh/255kb/stack-on-a-budget/tree/master)
+
 Some ads (sorry, self-promotion :smile:)
 <div style="display:flex;">
     <div><h4 align="center"><a href="https://mockoon.com"><img src="https://mockoon.com/images/logo.svg" width="120" alt="Mockoon logo"><br>Mock APIs like a pro with this app I created</a></h4></div>    
@@ -163,3 +165,5 @@ Please also have a look to the [List of excluded services](pages/excluded-servic
 - [**Web Scraping**](pages/web-scraping.md)
     - [ProxyCrawl](pages/web-scraping.md#proxycrawl)
     - [Scraper API](pages/web-scraping.md#scraper-api)
+- [**Website audit**](pages/website-audit.md)
+    - [Checkbot](pages/website-audit.md#checkbot)
