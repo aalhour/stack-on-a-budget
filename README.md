@@ -4,7 +4,7 @@
 
 Some ads (sorry, self-promotion :smile:)
 <div style="display:flex;">
-    <div><h4 align="center"><a href="https://mockoon.com"><img src="https://mockoon.com/images/logo.svg" width="120" alt="Mockoon logo"><br>Mock APIs like a pro with this app I created</a></h4></div>
+    <div><h4 align="center"><a href="https://mockoon.com"><img src="https://mockoon.com/assets/images/logo.svg" width="120" alt="Mockoon logo"><br>Mock APIs like a pro with this app I created</a></h4></div>
 </div>
 
 # What is it?
@@ -166,6 +166,7 @@ Please also have a look to the [List of excluded services](pages/excluded-servic
     - [Okta](pages/user-authentication.md#okta)
     - [Visual Studio Mobile Center](pages/user-authentication.md#visual-studio-mobile-center)
 - [**Web Scraping**](pages/web-scraping.md)
+    - [Apify](pages/web-scraping.md#apify)
     - [ProxyCrawl](pages/web-scraping.md#proxycrawl)
     - [Scraper API](pages/web-scraping.md#scraper-api)
 - [**Website audit**](pages/website-audit.md)
